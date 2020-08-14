@@ -1,4 +1,4 @@
-package top.lijngyuan.leetcode.数组.easy.q350_两个数组的交集2;
+package top.lijngyuan.leetcode.哈希表.easy.q350_两个数组的交集2;
 
 //给定两个数组，编写一个函数来计算它们的交集。
 //
