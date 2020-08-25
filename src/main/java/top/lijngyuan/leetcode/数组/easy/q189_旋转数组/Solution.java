@@ -49,6 +49,8 @@ public class Solution {
         System.out.println(Arrays.toString(nums));
     }
 
+    // 我们只需要将所有元素反转，然后反转前 k 个元素，再反转后面 length-k 个元素，就能得到想要的结果。
+    // 1, 2, 3, 4, 5, 6, 7 ==> 7, 6, 5, 4, 3, 2, 1 ==>(翻转前3个元素) 5, 6, 7, 4, 3, 2, 1 ==>(翻转后 7-3=4 个元素) 5, 6, 7, 1, 2, 3, 4
     public static void rotate(int[] nums, int k) {
         k %= nums.length;
         reverse(nums, 0, nums.length - 1);
