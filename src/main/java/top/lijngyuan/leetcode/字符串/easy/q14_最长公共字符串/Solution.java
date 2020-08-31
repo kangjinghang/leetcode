@@ -1,4 +1,4 @@
-package top.lijngyuan.leetcode.字符串.q14_最长公共字符串;
+package top.lijngyuan.leetcode.字符串.easy.q14_最长公共字符串;
 //编写一个函数来查找字符串数组中的最长公共前缀。
 //
 // 如果不存在公共前缀，返回空字符串 ""。
