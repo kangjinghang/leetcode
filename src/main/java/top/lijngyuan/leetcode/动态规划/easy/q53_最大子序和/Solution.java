@@ -30,10 +30,10 @@ public class Solution {
 
 
     public static int maxSubArray(int[] nums) {
-        int max = nums[0];
         if (nums == null) {
             return 0;
         }
+        int max = nums[0];
         int[] dp = new int[nums.length];
         dp[0] = nums[0];
         for (int i = 1; i < nums.length; i++) {
