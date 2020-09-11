@@ -1,4 +1,4 @@
-package top.lijngyuan.leetcode.动态规划.easy.q70_爬楼梯;
+package top.lijngyuan.leetcode.动态规划.easy.easy.q70_爬楼梯;
 
 //假设你正在爬楼梯。需要 n 阶你才能到达楼顶。
 //
