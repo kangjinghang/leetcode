@@ -59,7 +59,7 @@ public class Solution {
             return maxDepth(root.right) + 1;
         }
         if (root.right == null) {
-            return maxDepth(root.right) + 1;
+            return maxDepth(root.left) + 1;
         }
         return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
     }
