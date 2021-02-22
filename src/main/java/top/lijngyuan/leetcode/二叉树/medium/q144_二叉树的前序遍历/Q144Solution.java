@@ -137,6 +137,8 @@ public class Q144Solution {
         Deque<TreeNode> stack = new ArrayDeque<>();
         stack.push(root);
         while (!stack.isEmpty()) {
+            // 前序：左 右
+            // 压栈顺序：要反过来，先压右子节点，再压左子节点
             TreeNode node = stack.pop();
             res.add(node.val);
             if (node.right != null) {
