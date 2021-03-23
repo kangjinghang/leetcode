@@ -77,7 +77,7 @@ public class Q145Solution {
             TreeNode cur = ele.node;
             boolean visited = ele.visited;
             if (visited) {
-                // 节点已经访问过了（打印/加到返回list里...这些）。pop出来的就不往回压了
+                // 标记左右子节点已经访问过了，可以放心的用父节点了（打印/加到返回list里...这些）。pop出来的就不往回压了
                 res.add(cur.val);
             } else {
                 // 先把自己压栈，再处理 左右子节点。因为后序是左 右 父，所以压栈顺序反过来
