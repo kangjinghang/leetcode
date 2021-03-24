@@ -61,6 +61,19 @@ public class Q92Solution {
         reversedHead.print();
     }
 
+    public static ListNode reverseN2(ListNode head, int n) {
+        ListNode newHead = new ListNode();
+        ListNode curr = head;
+        for (int i = 1; i <= n; i++) {
+            ListNode next = curr.next;
+            curr.next = newHead.next;
+            newHead.next = curr;
+            curr = next;
+        }
+        head.next = curr;
+        return newHead.next;
+    }
+
     // 后驱节点
     static ListNode successor = null;
 
