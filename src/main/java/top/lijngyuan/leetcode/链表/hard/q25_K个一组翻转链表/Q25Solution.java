@@ -1,4 +1,4 @@
-package top.lijngyuan.leetcode.链表.hard.K个一组翻转链表;
+package top.lijngyuan.leetcode.链表.hard.q25_K个一组翻转链表;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
