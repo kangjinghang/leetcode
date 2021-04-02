@@ -45,7 +45,7 @@ import java.util.List;
 /**
  * q640 solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-03-07
  * @since 1.0.0
  */

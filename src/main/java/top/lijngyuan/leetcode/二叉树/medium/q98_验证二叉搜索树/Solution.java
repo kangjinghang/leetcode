@@ -39,7 +39,7 @@ package top.lijngyuan.leetcode.二叉树.medium.q98_验证二叉搜索树;
 /**
  * Solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2020-10-28
  * @since 1.0.0
  */

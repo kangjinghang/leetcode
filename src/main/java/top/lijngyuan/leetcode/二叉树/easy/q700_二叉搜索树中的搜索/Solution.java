@@ -33,7 +33,7 @@ package top.lijngyuan.leetcode.二叉树.easy.q700_二叉搜索树中的搜索;
 /**
  * Solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2020-10-28
  * @since 1.0.0
  */

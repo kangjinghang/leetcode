@@ -47,7 +47,7 @@ package top.lijngyuan.leetcode.二叉树.easy.q110_平衡二叉树;
 /**
  * Solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2020-10-29
  * @since 1.0.0
  */

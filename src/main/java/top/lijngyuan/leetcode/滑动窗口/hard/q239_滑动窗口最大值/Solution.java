@@ -46,7 +46,7 @@ import java.util.Deque;
 /**
  * Solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2020-11-11
  * @since 1.0.0
  */

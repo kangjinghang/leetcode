@@ -39,7 +39,7 @@ import java.util.*;
 /**
  * q145 solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-02-22
  * @since 1.0.0
  */

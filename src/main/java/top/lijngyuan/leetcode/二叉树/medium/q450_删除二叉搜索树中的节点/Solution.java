@@ -50,7 +50,7 @@ package top.lijngyuan.leetcode.二叉树.medium.q450_删除二叉搜索树中的
 /**
  * Solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2020-10-29
  * @since 1.0.0
  */

@@ -28,7 +28,7 @@ import lombok.NoArgsConstructor;
  * <p>
  * 参考<href>https://labuladong.gitbook.io/algo/shu-ju-jie-gou-xi-lie/shou-ba-shou-shua-lian-biao-ti-mu-xun-lian-di-gui-si-wei/pan-duan-hui-wen-lian-biao</href>
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-03-27
  * @since 1.0.0
  */

@@ -37,7 +37,7 @@ import lombok.NoArgsConstructor;
 /**
  * q226 solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-03-30
  * @since 1.0.0
  */

@@ -50,7 +50,7 @@ package top.lijngyuan.leetcode.二叉树.medium.q814_二叉树剪枝;
 /**
  * Solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2020-11-11
  * @since 1.0.0
  */

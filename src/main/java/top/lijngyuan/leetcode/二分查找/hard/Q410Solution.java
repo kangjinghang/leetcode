@@ -43,7 +43,7 @@ package top.lijngyuan.leetcode.二分查找.hard;
 /**
  * q410 solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-03-07
  * @since 1.0.0
  */

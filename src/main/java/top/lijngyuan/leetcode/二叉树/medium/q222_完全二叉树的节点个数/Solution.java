@@ -25,7 +25,7 @@ package top.lijngyuan.leetcode.二叉树.medium.q222_完全二叉树的节点个
 /**
  * Solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2020-10-30
  * @since 1.0.0
  */

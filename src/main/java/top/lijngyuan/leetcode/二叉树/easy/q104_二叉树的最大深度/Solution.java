@@ -26,7 +26,7 @@ import java.util.Stack;
 /**
  * Solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2020-10-27
  * @since 1.0.0
  */

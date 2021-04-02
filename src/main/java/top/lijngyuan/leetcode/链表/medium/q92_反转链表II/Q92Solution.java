@@ -40,7 +40,7 @@ package top.lijngyuan.leetcode.链表.medium.q92_反转链表II;
 /**
  * q92 solution
  *
- * @author <a href="kangjh@shukun.net">kangjinghang</a>
+ * @author <a href="kangjinghang@gmail.com">kangjinghang</a>
  * @date 2021-03-23
  * @since 1.0.0
  */
