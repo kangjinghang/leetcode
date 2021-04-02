@@ -1,4 +1,4 @@
-package top.lijngyuan.leetcode.链表.easy.q226_翻转二叉树;
+package top.lijngyuan.leetcode.二叉树.easy.q226_翻转二叉树;
 
 
 import lombok.AllArgsConstructor;
@@ -55,7 +55,7 @@ public class Q226Solution {
         TreeNode node4 = new TreeNode(4, node2, node7);
 
 //        invertTree(node4);
-        TreeNode root = invertTree1(node4);
+        TreeNode root = invertTree(node4);
     }
 
     /**
